@@ -3,7 +3,7 @@ for Fabric Unified Admin Monitoring solution accelerator.
 
 --------------------------
 
-## 📦 2025.6.2
+## 📦 2026.6.2
 
 ### 📈 Enhancements
 
